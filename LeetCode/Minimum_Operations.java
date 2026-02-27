@@ -1,3 +1,4 @@
+// Day: 27-02-2026
 // 3666. Minimum Operations to Equalize Binary String
 // Solved
 // Hard
