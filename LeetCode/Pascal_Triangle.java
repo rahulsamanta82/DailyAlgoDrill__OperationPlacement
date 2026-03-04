@@ -1,9 +1,4 @@
 // 118. Pascal's Triangle
-// Solved
-// Easy
-// Topics
-// premium lock icon
-// Companies
 // Given an integer numRows, return the first numRows of Pascal's triangle.
 
 // In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
@@ -22,10 +17,6 @@
 
 // 1 <= numRows <= 30
  
-
-
-
-
 
 import java.util.*;
 class Pascal_Triangle {
@@ -60,3 +51,4 @@ class Pascal_Triangle {
         }
     }
 }
+
