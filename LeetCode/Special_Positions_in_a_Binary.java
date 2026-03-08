@@ -9,6 +9,8 @@
 // Example 2:
 
 
+
+
 // Input: mat = [[1,0,0],[0,1,0],[0,0,1]]
 // Output: 3
 // Explanation: (0, 0), (1, 1) and (2, 2) are special positions.
@@ -20,6 +22,9 @@
 // n == mat[i].length
 // 1 <= m, n <= 100
 // mat[i][j] is either 0 or 1.
+
+
+
 
 import java.util.Scanner;
 

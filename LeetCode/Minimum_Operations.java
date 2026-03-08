@@ -5,6 +5,8 @@
 // Return the minimum number of operations required to make all characters in the string equal to '1'. If it is not possible, return -1.
 
 
+
+
 // Example 1:
 // Input: s = "110", k = 1
 // Output: 1
@@ -26,6 +28,9 @@
 // Output: -1
 // Explanation:
 // Since k = 2 and s has only one '0', it is impossible to flip exactly k indices to make all '1'. Hence, the answer is -1.
+
+ 
+
 
  
 
